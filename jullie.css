@@ -1,1 +1,25 @@
-    
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Xadrez</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>♟️ Tabuleiro de Xadrez</h1>
+
+<div class="tabuleiro">
+    <!-- 64 casas -->
+    <!-- você pode repetir manualmente ou depois aprender loops em JS -->
+    <div class="casa preta"></div>
+    <div class="casa branca"></div>
+    <div class="casa preta"></div>
+    <div class="casa branca"></div>
+
+    <!-- (repete até completar o tabuleiro) -->
+</div>
+
+</body>
+</html>
